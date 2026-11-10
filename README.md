@@ -81,7 +81,7 @@ These findings represent observed associations and do not establish causal relat
 
 ## 8. Power BI Dashboard Preview
 
-![E-Commerce Return Analysis Dashboard](Power BI Dashboard)
+![E-Commerce Return Analysis Dashboard](Power BI Dashboard.png)
 
 ## 9. Conclusion
 
