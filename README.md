@@ -79,7 +79,11 @@ These findings represent observed associations and do not establish causal relat
 - Develop a real-time return-risk monitoring system.
 - Integrate predictive insights into business decision-making.
 
-## 8. Conclusion
+## 8. Power BI Dashboard Preview
+
+![E-Commerce Return Analysis Dashboard](PowerBI_Dashboard.png)
+
+## 9. Conclusion
 
 This project demonstrates how data analytics, SQL, machine learning, and business intelligence tools can be combined to analyse e-commerce returns and support informed business decisions.
 
